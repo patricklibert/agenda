@@ -1,4 +1,9 @@
 ## TechTalk Agenda
 ___
 
-|Day of the week|Date|:Person:|:Topic|
+| Day Of The week | Date | Person | Topic |
+|-----------------|------|--------|-------|
+|                 |      |        |       |
+|                 |      |        |       |
+|                 |      |        |       |
+
