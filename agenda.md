@@ -1,4 +1,4 @@
-![Logo](/logo_Becode.png) 
+<img style="float: right;" src="lgogo_Becode.png"> 
 ## TechTalk Agenda
 ___
 
