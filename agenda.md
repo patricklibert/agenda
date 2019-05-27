@@ -1,4 +1,4 @@
-<img style="float: right;" src="lgogo_Becode.png"> 
+<img style="float: right;" src="logo_Becode.png"> 
 ## TechTalk Agenda
 ___
 
