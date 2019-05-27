@@ -2,6 +2,7 @@
 <p align="center">
 <img src="logo_Becode.png"> 
 </p>
+
 ## TechTalk Agenda
 ___
 
