@@ -1,6 +1,7 @@
 <link href="style.css" rel="stylesheet"></link>
-<div id="container"><img align="center" src="logo_Becode.png"></div> 
-
+<p align="center">
+<img src="logo_Becode.png"> 
+</p>
 ## TechTalk Agenda
 ___
 
