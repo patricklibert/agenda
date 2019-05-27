@@ -12,49 +12,49 @@ Remember, there should be a techtalk every day!
 
 Instructions
 
-Via the terminal:  
+*Via the terminal:*  
 
-Clone this repository / Pull the lastest updates.
+`Clone this repository / Pull the lastest updates.
 Edit the agenda.md.
 Commit with a relevant commit message.
-Push the changes online.
+Push the changes online.`
 
-Topic ideas:
+## Topic ideas:
 
-gitignore
-jQuery
-VueJS
-SVG
-Flexbox
-Server-side programming languages 
-React.js
-JavaScript libraries 
-Web servers 
-Content management systems (CMS) 
-Operating systems 
-JavaScript Content Delivery Network 
-Social network widgets 
-Traffic analysis tools 
-Responsive design
-The infinite scroll
-Parallax scrolling 
-Videos on the web
-Micro-interactions to improve UX 
-The Gestalt Principles
-Material design
-Robots.txt
-Finding free and royalty-free images
-Sitemap
-Image formats for the web
-SASS
-CSS/SASS grid
-JavaScript Scope and Closures
-Form validation
-Net Neutrality
-Ethics in Technology and Design
-GDPR
-Messaging broker and ad/sub template
-Long-polling system
-Neo4J and DB graphs
-Neuromarketing
-...
+*gitignore
+*jQuery
+*VueJS
+*SVG
+*Flexbox
+*Server-side programming languages 
+*React.js
+*JavaScript libraries 
+*Web servers 
+*Content management systems (CMS) 
+*Operating systems 
+*JavaScript Content Delivery Network 
+*Social network widgets 
+*Traffic analysis tools 
+*Responsive design
+*The infinite scroll
+*Parallax scrolling 
+*Videos on the web
+*Micro-interactions to improve UX 
+*The Gestalt Principles
+*Material design
+*Robots.txt
+*Finding free and royalty-free images
+*Sitemap
+*Image formats for the web
+*SASS
+*CSS/SASS grid
+*JavaScript Scope and Closures
+*Form validation
+*Net Neutrality
+*Ethics in Technology and Design
+*GDPR
+*Messaging broker and ad/sub template
+*Long-polling system
+*Neo4J and DB graphs
+*Neuromarketing
+*...
