@@ -21,40 +21,40 @@ Push the changes online.`
 
 ## Topic ideas:
 
-*gitignore
-*jQuery
-*VueJS
-*SVG
-*Flexbox
-*Server-side programming languages 
-*React.js
-*JavaScript libraries 
-*Web servers 
-*Content management systems (CMS) 
-*Operating systems 
-*JavaScript Content Delivery Network 
-*Social network widgets 
-*Traffic analysis tools 
-*Responsive design
-*The infinite scroll
-*Parallax scrolling 
-*Videos on the web
-*Micro-interactions to improve UX 
-*The Gestalt Principles
-*Material design
-*Robots.txt
-*Finding free and royalty-free images
-*Sitemap
-*Image formats for the web
-*SASS
-*CSS/SASS grid
-*JavaScript Scope and Closures
-*Form validation
-*Net Neutrality
-*Ethics in Technology and Design
-*GDPR
-*Messaging broker and ad/sub template
-*Long-polling system
-*Neo4J and DB graphs
-*Neuromarketing
-*...
+* gitignore
+* jQuery
+* VueJS
+* SVG
+* Flexbox
+* Server-side programming languages 
+* React.js
+* JavaScript libraries 
+* Web servers 
+* Content management systems (CMS) 
+* Operating systems 
+* JavaScript Content Delivery Network 
+* Social network widgets 
+* Traffic analysis tools 
+* Responsive design
+* The infinite scroll
+* Parallax scrolling 
+* Videos on the web
+* Micro-interactions to improve UX 
+* The Gestalt Principles
+* Material design
+* Robots.txt
+* Finding free and royalty-free images
+* Sitemap
+* Image formats for the web
+* SASS
+* CSS/SASS grid
+* JavaScript Scope and Closures
+* Form validation
+* Net Neutrality
+* Ethics in Technology and Design
+* GDPR
+* Messaging broker and ad/sub template
+* Long-polling system
+* Neo4J and DB graphs
+* Neuromarketing
+* ...
