@@ -2,3 +2,4 @@
 ___
 
 |  Day of the week   |    Date    |      Person     |:      Topic       |
+|----------|:--------:|:---------|
