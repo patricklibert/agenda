@@ -58,3 +58,5 @@ Push the changes online.`
 * Neo4J and DB graphs
 * Neuromarketing
 * ...
+
+<a href="agenda.md">Agenda</a>
