@@ -1,3 +1,4 @@
+![Logo](/logo_Becode.png) 
 ## TechTalk Agenda
 ___
 
